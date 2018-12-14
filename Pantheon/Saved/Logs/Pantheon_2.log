@@ -1,0 +1,786 @@
+﻿Log file open, 12/14/18 00:41:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pantheon
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.422526
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.106s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz, GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Engine.ini]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Engine.ini]
+[2018.12.14-00.41.44:815][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Engine.ini]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.14-00.41.44:815][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Engine.ini]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.14-00.41.44:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Engine.ini]
+[2018.12.14-00.41.44:816][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Engine.ini]
+[2018.12.14-00.41.44:825][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.14-00.41.44:825][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.14-00.41.44:826][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.14-00.41.44:826][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.14-00.41.44:826][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.14-00.41.44:880][  0]LogHAL: Display: Platform has ~ 44 GB [47220961280 / 68719476736 / 44], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.14-00.41.44:880][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.14-00.41.44:880][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.14-00.41.44:880][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Scalability.ini]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.14-00.41.44:881][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.14-00.41.44:881][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.14-00.41.44:882][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Config/Windows/Engine.ini]
+[2018.12.14-00.41.44:882][  0]LogInit: Computer: GAVIN-PC
+[2018.12.14-00.41.44:882][  0]LogInit: User: Gavin
+[2018.12.14-00.41.44:882][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.14-00.41.44:882][  0]LogInit: High frequency timer resolution =3.126770 MHz
+[2018.12.14-00.41.44:882][  0]LogMemory: Memory total: Physical=44.0GB (44GB approx)
+[2018.12.14-00.41.44:882][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.14-00.41.44:882][  0]LogMemory: Process Physical Memory: 104.12 MB used, 104.12 MB peak
+[2018.12.14-00.41.44:882][  0]LogMemory: Process Virtual Memory: 94.27 MB used, 94.27 MB peak
+[2018.12.14-00.41.44:882][  0]LogMemory: Physical Memory: 5822.57 MB used,  39210.85 MB free, 45033.42 MB total
+[2018.12.14-00.41.44:882][  0]LogMemory: Virtual Memory: 4668.15 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2018.12.14-00.41.44:902][  0]LogInit: Using OS detected language (en-US).
+[2018.12.14-00.41.44:902][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.14-00.41.44:903][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.14-00.41.45:360][  0]LogStreaming: Display: Took  0.457s to InitEngineTextLocalization.
+[2018.12.14-00.41.45:360][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.14-00.41.45:387][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.14-00.41.45:387][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.14-00.41.45:617][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.12.14-00.41.45:617][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.14-00.41.45:669][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2018.12.14-00.41.45:669][  0]LogD3D11RHI:       2007/0/22516 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.12.14-00.41.45:671][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.14-00.41.45:671][  0]LogD3D11RHI:       0/0/22516 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.14-00.41.45:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.14-00.41.45:677][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.14-00.41.45:677][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2018.12.14-00.41.45:677][  0]LogWindows: EnumDisplayDevices:
+[2018.12.14-00.41.45:677][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2018.12.14-00.41.45:677][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:1)
+[2018.12.14-00.41.45:678][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:1)
+[2018.12.14-00.41.45:678][  0]LogWindows:    3. 'BB Capture Driver' (P:0 D:0)
+[2018.12.14-00.41.45:678][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2018.12.14-00.41.45:678][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2018.12.14-00.41.45:678][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.12.14-00.41.45:678][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.12.14-00.41.45:678][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2018.12.14-00.41.45:712][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.14-00.41.45:730][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.14-00.41.46:138][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.14-00.41.46:154][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.14-00.41.46:173][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.14-00.41.46:191][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.14-00.41.46:209][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.14-00.41.46:225][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.14-00.41.46:240][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.14-00.41.46:258][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.14-00.41.46:266][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.14-00.41.46:366][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.14-00.41.46:433][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.14-00.41.46:433][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.14-00.41.46:465][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.14-00.41.46:465][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.14-00.41.46:481][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.14-00.41.46:498][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.14-00.41.46:513][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.14-00.41.46:529][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.14-00.41.46:588][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.14-00.41.46:588][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.14-00.41.46:588][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.14-00.41.46:651][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Intermediate/Shaders/WorkingDirectory/7604/).
+[2018.12.14-00.41.46:651][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gavin/AppData/Local/Temp/UnrealShaderWorkingDir/2CB7B62D4C994ED9FBD4CE8E0E31E354/'.
+[2018.12.14-00.41.46:653][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.14-00.41.46:653][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.14-00.41.46:653][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.14-00.41.47:339][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.14-00.41.47:399][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Gavin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.14-00.41.47:399][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gavin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.14-00.41.47:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.14-00.41.47:399][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.14-00.41.47:400][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.14-00.41.47:400][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.14-00.41.47:417][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.14-00.41.47:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.14-00.41.47:418][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.14-00.41.47:430][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gavin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.14-00.41.47:430][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.14-00.41.47:430][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.14-00.41.47:457][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.14-00.41.47:459][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.14-00.41.47:460][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.14-00.41.47:555][  0]LogAssetRegistry: FAssetRegistry took 0.0360 seconds to start up
+[2018.12.14-00.41.48:006][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.14-00.41.48:214][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.14-00.41.48:218][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.14-00.41.48:218][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.14-00.41.48:218][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.14-00.41.48:218][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.14-00.41.48:233][  0]LogNetVersion: Pantheon 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1643543952)
+[2018.12.14-00.41.48:848][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.105943 seconds
+[2018.12.14-00.41.48:857][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.14-00.41.48:857][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.14-00.41.48:857][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.14-00.41.49:812][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.14-00.41.49:826][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.14-00.41.50:628][  0]SourceControl: Source control is disabled
+[2018.12.14-00.41.50:628][  0]SourceControl: Source control is disabled
+[2018.12.14-00.41.50:630][  0]SourceControl: Source control is disabled
+[2018.12.14-00.41.50:631][  0]SourceControl: Source control is disabled
+[2018.12.14-00.41.50:796][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.14-00.41.50:987][  0]LogOcInput: OculusInput pre-init called
+[2018.12.14-00.41.51:140][  0]LogEngine: Initializing Engine...
+[2018.12.14-00.41.51:143][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.12.14-00.41.51:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.14-00.41.51:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.14-00.41.51:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.14-00.41.51:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.14-00.41.51:416][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.14-00.41.51:429][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.14-00.41.51:503][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-00.41.51:532][  0]LogInit: FAudioDevice initialized.
+[2018.12.14-00.41.51:532][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.14-00.41.51:621][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Gavin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.14-00.41.51:640][  0]LogInit: Texture streaming: Enabled
+[2018.12.14-00.41.51:659][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.14-00.41.51:672][  0]LogInit: Transaction tracking system initialized
+[2018.12.14-00.41.51:693][  0]BlueprintLog: New page: Editor Load
+[2018.12.14-00.41.51:775][  0]LocalizationService: Localization service is disabled
+[2018.12.14-00.41.52:422][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2018.12.14-00.42.01:529][  0]LogFileCache: Scanning file cache for directory 'F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/' took 0.02s
+[2018.12.14-00.42.01:529][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.14-00.42.01:529][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.14-00.42.01:529][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.14-00.42.01:529][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.14-00.42.01:529][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.14-00.42.01:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.14-00.42.01:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.14-00.42.12:199][  0]SourceControl: Source control is disabled
+[2018.12.14-00.42.12:200][  0]Cmd: MAP LOAD FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.14-00.42.12:200][  0]LightingResults: New page: Lighting Build
+[2018.12.14-00.42.12:203][  0]MapCheck: New page: Map Check
+[2018.12.14-00.42.12:203][  0]LightingResults: New page: Lighting Build
+[2018.12.14-00.42.23:319][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.14-00.42.25:294][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.14-00.42.25:329][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.14-00.42.25:329][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2018.12.14-00.42.25:329][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 13.129
+[2018.12.14-00.42.25:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-00.42.25:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-00.42.25:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-00.42.25:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-00.42.26:129][  0]LogCollectionManager: Loaded 0 collections in 0.002213 seconds
+[2018.12.14-00.42.26:170][  0]LogFileCache: Scanning file cache for directory 'F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Collections/' took 0.01s
+[2018.12.14-00.42.26:170][  0]LogFileCache: Scanning file cache for directory 'F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Developers/Gavin/Collections/' took 0.01s
+[2018.12.14-00.42.26:170][  0]LogFileCache: Scanning file cache for directory 'F:/Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Collections/' took 0.01s
+[2018.12.14-00.42.26:170][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.14-00.42.26:182][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2651 classes and 620 folders.
+[2018.12.14-00.42.26:190][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.14-00.42.26:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.26:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.26:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.26:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.27:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.28:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.29:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.29:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.14-00.42.32:007][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.14-00.42.32:069][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.14-00.42.32:409][  0]LogSlate: Took 0.038050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.14-00.42.32:441][  0]LogSlate: Took 0.029735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.14-00.42.32:484][  0]LogSlate: Took 0.037150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.14-00.42.32:941][  0]LogRenderer: Reallocating scene render targets to support 1172x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.14-00.42.33:346][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.14-00.42.33:346][  0]LogLoad: (Engine Initialization) Total time: 50.58 seconds
+[2018.12.14-00.42.33:346][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.14-00.42.33:417][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.14-00.42.33:493][  0]LogSlate: Took 0.034173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.14-00.42.34:005][  1]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.12.14-00.42.34:635][  4]LogAssetRegistry: Asset discovery search completed in 47.1021 seconds
+[2018.12.14-00.42.34:638][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.14-00.42.34:638][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2018.12.14-00.42.34:651][  4]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.14-00.42.40:302][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-00.42.40:798][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weather/BP_WeatherManager.BP_WeatherManager
+[2018.12.14-00.42.42:983][ 48]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2018.12.14-00.42.44:966][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Libraries/BPL_Temperature.BPL_Temperature
+[2018.12.14-00.42.45:384][ 48]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/UI_GameHUD.UI_GameHUD
+[2018.12.14-00.42.46:031][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.12.14-00.42.46:592][ 48]LogSlate: Took 0.035381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.14-00.42.47:014][ 49]LogSlate: Took 0.018270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.14-00.55.05:385][275]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.14-00.55.07:188][289]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonCharacterC37BA00146F5AE2993576EAEE40B397B.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.14-00.55.34:469][879]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.14-00.55.36:112][893]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonCharacterE9B21B2749ED0B81AA4D15A0B295C1BC.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.14-00.55.58:096][335]BlueprintLog: New page: Compile BP_WeatherManager
+[2018.12.14-00.55.58:949][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherManager" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherManager.uasset" SILENT=true
+[2018.12.14-00.55.59:082][343]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherManagerB270AF16455B1110652424BDF42FC0F5.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherManager.uasset'
+[2018.12.14-00.56.08:611][553]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.14-00.56.15:673][694]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Weather/BP_WeatherModifier.BP_WeatherModifier
+[2018.12.14-00.56.16:170][695]LogRenderer: Reallocating scene render targets to support 1172x696 Format 10 NumSamples 1 (Frame:1).
+[2018.12.14-00.56.55:598][135]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonExampleMap_Auto1B4E23C91484D2D64D0D2699EF2753B8B.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.12.14-00.56.55:619][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.545
+[2018.12.14-00.56.55:619][135]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.545
+[2018.12.14-00.56.55:620][135]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weather/BP_WeatherModifier] ([1] browsable assets)...
+[2018.12.14-00.56.55:620][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weather/BP_WeatherModifier]
+[2018.12.14-00.56.55:634][135]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier_Auto12D4503CF49ED573CB64360AC72D04417.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/Autosaves/Game/Weather/BP_WeatherModifier_Auto1.uasset'
+[2018.12.14-00.56.55:635][135]LogFileHelpers: Auto-saving content packages took 0.015
+[2018.12.14-00.57.24:363][221]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-00.57.25:232][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-00.57.25:247][231]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier1CAAEC9F4E1D57CB66781587C0769D40.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-00.58.06:020][157]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-00.58.06:762][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-00.58.06:794][165]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifierDDEE9FDB4A6AF8BD9CA3C0AAFE2A729D.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-00.59.35:822][557]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-00.59.35:853][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-00.59.35:854][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-00.59.35:854][557]PIE: New page: PIE session: ThirdPersonExampleMap (14 Dec 2018 00:59:35)
+[2018.12.14-00.59.35:893][557]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.14-00.59.35:937][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043795s)
+[2018.12.14-00.59.35:938][557]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.14-00.59.35:939][557]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2018.12.14-00.59.35:939][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045581s)
+[2018.12.14-00.59.36:009][557]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-00.59.36:027][557]LogInit: FAudioDevice initialized.
+[2018.12.14-00.59.36:067][557]LogLoad: Game class is 'PantheonGameMode_C'
+[2018.12.14-00.59.36:070][557]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.14-00.59.36
+[2018.12.14-00.59.36:071][557]LogWorld: Bringing up level for play took: 0.003425
+[2018.12.14-00.59.36:088][557]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2018.12.14-00.59.36:093][557]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.659
+[2018.12.14-00.59.36:093][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.00.32:244][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.00.32:244][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-01.00.32:318][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-01.00.32:319][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.00.32:358][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-01.00.32:410][925]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.14-01.04.51:744][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.05.09:283][ 11]LogSlate: Took 0.032403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.14-01.05.12:341][ 54]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.05.13:329][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.05.13:355][ 65]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier1D6812F6401A3DC1AA07A5A4819472B4.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.05.37:328][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.05.37:486][359]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.05.38:924][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.05.38:944][375]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier031CB2404EB6C8782943A594390A4D66.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.06.10:403][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.06.10:425][847]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifierC79C0B6E43BC19A4F77B618ED7C62395.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.06.10:801][855]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.06.16:086][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.06.16:110][921]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier6AB8F8504F1AE5A5A061259572C50E7A.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.06.19:250][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-01.06.25:087][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.06.50:649][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.06.53:898][561]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.06.54:912][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.06.54:933][575]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier36893F7B46B5244830A797950261107A.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.06.55:302][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.06.55:332][581]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifierE797B772402E2370EBE40F9B9CE00155.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.07.53:420][497]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.07.54:439][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.07.54:468][510]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifierE180D2C946AF761D2BBD41B127A61C2D.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.09.14:692][619]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.09.15:896][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.09.15:923][635]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier72AEC3454EAA7E623651C18830D2A657.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.09.37:221][992]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.09.38:058][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.09.38:087][  2]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifierD1C81D754FE7F255297ED49E7279F974.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.10.04:142][439]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.14-01.10.05:671][449]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonCharacter85B7359F4074A276A481E1A57D7427E7.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.14-01.11.29:483][844]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.14-01.11.31:080][853]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonCharacter24B3C68E47C8C4CE4D247BA000A47DF0.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.14-01.11.57:864][299]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.14-01.12.21:035][569]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.14-01.12.22:484][578]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonCharacter0359F32D4C8E6E08B1B322ACE1AB583B.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.14-01.12.29:957][712]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.12.30:716][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.12.30:773][721]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier084DA391489456B8E9DB23B46E66909A.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.15.19:912][154]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.14-01.15.21:394][162]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonCharacter15BB14584B69291609DB458A17EAF85F.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.14-01.15.36:839][396]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.15.37:746][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.15.37:774][406]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier4E98A4F84E85C66B6B6384AABCED0CF1.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.17.20:636][954]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.17.21:707][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.17.21:747][966]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier70B0B43F4844A1DD42F3F7A7C502DE48.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.17.42:218][276]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.17.43:154][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.17.43:196][286]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier4F9A9B5E4E243F5547DBBAA465751CF6.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.17.45:788][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.17.45:823][325]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier2F476A87443CF32685A7ED8D6B331543.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.17.55:570][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.19.18:424][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.19.40:163][331]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.19.45:849][414]BlueprintLog: New page: Compile BP_WeatherModifier
+[2018.12.14-01.19.47:182][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherModifier" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset" SILENT=true
+[2018.12.14-01.19.47:216][430]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherModifier5E5485F34735F5C1372DB6BAD18E5B4A.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherModifier.uasset'
+[2018.12.14-01.20.00:918][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.20.01:035][671]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-01.20.01:074][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.20.01:074][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-01.20.01:074][671]PIE: New page: PIE session: ThirdPersonExampleMap (14 Dec 2018 01:20:01)
+[2018.12.14-01.20.01:075][671]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.14-01.20.01:121][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045782s)
+[2018.12.14-01.20.01:122][671]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.14-01.20.01:122][671]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2018.12.14-01.20.01:122][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047122s)
+[2018.12.14-01.20.01:192][671]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-01.20.01:210][671]LogInit: FAudioDevice initialized.
+[2018.12.14-01.20.01:242][671]LogLoad: Game class is 'PantheonGameMode_C'
+[2018.12.14-01.20.01:246][671]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.14-01.20.01
+[2018.12.14-01.20.01:246][671]LogWorld: Bringing up level for play took: 0.003489
+[2018.12.14-01.20.01:263][671]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.513
+[2018.12.14-01.20.01:264][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.20.05:070][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.20.05:071][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-01.20.05:147][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-01.20.05:147][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.20.05:191][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-01.20.05:248][753]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.14-01.20.08:587][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.20.22:574][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.20.22:786][ 74]LogActorFactory: Actor Factory created Cube
+[2018.12.14-01.20.23:414][ 85]LogActorFactory: Actor Factory created Cube
+[2018.12.14-01.20.28:196][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.20.42:779][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.20.56:979][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.14-01.21.01:169][735]LogSlate: Took 0.064556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.12.14-01.21.12:329][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_GameHUD" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/UI/UI_GameHUD.uasset" SILENT=true
+[2018.12.14-01.21.12:422][900]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/UI_GameHUD31CB9D334F1EA6B4FE5C9D915B834317.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/UI/UI_GameHUD.uasset'
+[2018.12.14-01.21.13:275][915]BlueprintLog: New page: Compile UI_GameHUD
+[2018.12.14-01.21.47:491][341]BlueprintLog: New page: Compile UI_GameHUD
+[2018.12.14-01.21.48:223][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_GameHUD" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/UI/UI_GameHUD.uasset" SILENT=true
+[2018.12.14-01.21.48:308][349]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/UI_GameHUDC54E01AA4F94A6CA54E64BA43DD942CC.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/UI/UI_GameHUD.uasset'
+[2018.12.14-01.24.21:654][379]BlueprintLog: New page: Compile UI_GameHUD
+[2018.12.14-01.24.22:437][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_GameHUD" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/UI/UI_GameHUD.uasset" SILENT=true
+[2018.12.14-01.24.22:525][381]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/UI_GameHUDE8D4553449A87CA5BEB103ABB5374FF2.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/UI/UI_GameHUD.uasset'
+[2018.12.14-01.24.37:217][604]BlueprintLog: New page: Compile UI_GameHUD
+[2018.12.14-01.24.38:349][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_GameHUD" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/UI/UI_GameHUD.uasset" SILENT=true
+[2018.12.14-01.24.38:440][618]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/UI_GameHUD6ADAEA784AFFED66E39F2E8DC43E72E2.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/UI/UI_GameHUD.uasset'
+[2018.12.14-01.24.44:616][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherManager" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherManager.uasset" SILENT=true
+[2018.12.14-01.24.44:729][711]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherManager2FA6A9E54A9999A99ECB79A4356D748E.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherManager.uasset'
+[2018.12.14-01.24.45:301][722]BlueprintLog: New page: Compile BP_WeatherManager
+[2018.12.14-01.25.14:934][119]BlueprintLog: New page: Compile BP_WeatherManager
+[2018.12.14-01.25.16:522][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherManager" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherManager.uasset" SILENT=true
+[2018.12.14-01.25.16:631][137]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherManager8664FAAE488165E5794F958BD40EB1F2.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherManager.uasset'
+[2018.12.14-01.25.19:616][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weather/BP_WeatherManager" FILE="../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherManager.uasset" SILENT=true
+[2018.12.14-01.25.19:723][182]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/BP_WeatherManager0ED334134D898F493AAC4CAFFA4F16ED.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/Weather/BP_WeatherManager.uasset'
+[2018.12.14-01.25.34:751][441]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-01.25.34:787][441]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.25.34:788][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-01.25.34:788][441]PIE: New page: PIE session: ThirdPersonExampleMap (14 Dec 2018 01:25:34)
+[2018.12.14-01.25.34:788][441]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.14-01.25.34:834][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045780s)
+[2018.12.14-01.25.34:836][441]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.14-01.25.34:836][441]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2018.12.14-01.25.34:836][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047168s)
+[2018.12.14-01.25.34:909][441]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-01.25.34:929][441]LogInit: FAudioDevice initialized.
+[2018.12.14-01.25.34:960][441]LogLoad: Game class is 'PantheonGameMode_C'
+[2018.12.14-01.25.34:964][441]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.14-01.25.34
+[2018.12.14-01.25.34:965][441]LogWorld: Bringing up level for play took: 0.003722
+[2018.12.14-01.25.34:981][441]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.23
+[2018.12.14-01.25.34:982][441]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.26.21:186][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.26.21:186][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-01.26.21:267][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-01.26.21:268][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.26.21:310][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-01.26.21:372][391]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.14-01.26.23:518][431]LogEditorViewport: Clicking on Actor (LMB): BP_WeatherModifier_C (BP_WeatherModifier)
+[2018.12.14-01.26.36:081][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.26.39:087][705]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonExampleMapB08C416B49C80FDE956CF6BBB0841A4B.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.14-01.26.39:333][705]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonExampleMap_BuiltData3BA74CE24FC121E30500BB88D500956B.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.12.14-01.26.40:027][720]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.14-01.26.40:054][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.26.40:055][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.14-01.26.40:055][720]PIE: New page: PIE session: ThirdPersonExampleMap (14 Dec 2018 01:26:40)
+[2018.12.14-01.26.40:055][720]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.14-01.26.40:101][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046153s)
+[2018.12.14-01.26.40:102][720]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.14-01.26.40:103][720]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2018.12.14-01.26.40:103][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047431s)
+[2018.12.14-01.26.40:181][720]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.14-01.26.40:201][720]LogInit: FAudioDevice initialized.
+[2018.12.14-01.26.40:237][720]LogLoad: Game class is 'PantheonGameMode_C'
+[2018.12.14-01.26.40:241][720]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.14-01.26.40
+[2018.12.14-01.26.40:242][720]LogWorld: Bringing up level for play took: 0.003705
+[2018.12.14-01.26.40:260][720]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.491
+[2018.12.14-01.26.40:260][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.27.17:740][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.27.17:740][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-01.27.17:838][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.14-01.27.17:838][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.14-01.27.17:882][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.14-01.27.17:948][496]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.14-01.27.20:914][550]LogEditorViewport: Clicking on Actor (LMB): BP_WeatherModifier_C (BP_WeatherModifier)
+[2018.12.14-01.27.23:020][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.14-01.27.32:475][660]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonExampleMap41E25E314A9C171AC194A088711DC125.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.14-01.27.32:605][660]LogSavePackage: Moving '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Saved/ThirdPersonExampleMap_BuiltDataB69374084240BD06D55477929ECF0F6B.tmp' to '../../../../../Users/Gavin Johnson/Documents/GitHub/PantheonTest/Pantheon/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
